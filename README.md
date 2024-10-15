@@ -1,4 +1,4 @@
-<h1 align="center">Decade of Natural Language Processing in Chronic Pain: A Systematic Review</a></h1>
+<h2 align="center">Decade of Natural Language Processing in Chronic Pain: A Systematic Review</a></h2>
 <h5 align="center">This is part of BMI500 coursework at Emory University</h5>
 <h5 align="center">Instructors: Profs. Clifford & Reyna</h5>
 <h5 align="center">
