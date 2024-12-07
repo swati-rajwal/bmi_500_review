@@ -4,7 +4,7 @@
 <h5 align="center">
 
 <p align="center">
-  <img src="images/papers_freq.png" width="651" alt="Experimental Task Design">
+  <img src="images/freq.png" width="651" alt="Experimental Task Design">
 </p>
 <p align="center"><b>Figure 1: Number of articles considered in this review.</b></p>
 
